@@ -1,16 +1,13 @@
-### Hi there 👋
+## PORTFOLIO
 
-<!--
-**feledori/feledori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[felixmayr.it](https://felixmayr.it)
 
-Here are some ideas to get you started:
+## MAIL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[info@felixmayr.it](mailto:info@felixmayr.it)  
+
+## SOCIAL
+
+[Instagram](https://www.instagram.com/felixmayr_)  
+[Twitter](https://twitter.com/feledori)  
+[Linkedin](https://www.linkedin.com/in/felixmayr)  
